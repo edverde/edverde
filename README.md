@@ -25,6 +25,7 @@ Studying back end and front end development. Data modeling.
         <h4><strong>Tools</strong></h4>
         <ul>
             <li>Laravel</li>
+            <li>Git</li>
             <li>MongoDB</li>
             <li>Mysql</li>
             <li>Tailwind CSS</li>
